@@ -1,5 +1,22 @@
 # MLOps Zoomcamp
 
+## Zhi
+### MLOps Zoomcamp 2023 Cohort
+
+* [Pre-Course Live Q&A](https://www.youtube.com/watch?v=o34Q_61iA4Y&list=PL3MmuxUbc_hKqamJqQ7Ew8HxptJYnXqQM&index=1)
+* [Technical FAQ](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit)
+* [Course Playlist: Only 2023 Live videos & homeworks](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKqamJqQ7Ew8HxptJYnXqQM)
+
+[**Module 1: Introduction**](cohorts/2023/01-intro)
+
+* [Homework](cohorts/2023/01-intro/homework.md)
+
+[**Module 2: Experiment Tracking**](cohorts/2023/02-experiment-tracking)
+* [Homework](cohorts/2023/02-experiment-tracking/homework.md)
+* [WandB](cohorts/2023/02-experiment-tracking/wandb.md)
+
+
+## Original Content
 <p align="center">
   <a href="https://airtable.com/shrCb8y6eTbPKwSTL" target="_blank">
     <img src="images/IMG_20230323_134059_927.png">
@@ -17,7 +34,7 @@ Our MLOps Zoomcamp course
 - Join the [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9) channel
 - [Tweet about the course!](https://ctt.ac/fH67W)
 - Start watching course videos! [Course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
-- [Technical FAQ](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit) 
+- [Technical FAQ](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit)
 - For announcements, join our [Telegram channel](https://t.me/dtc_courses)
 
 
@@ -54,7 +71,7 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 
 * Python
 * Docker
-* Being comfortable with command line 
+* Being comfortable with command line
 * Prior exposure to machine learning (at work or from other courses, e.g. from [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp))
 * Prior programming experience (at least 1+ year)
 
@@ -96,7 +113,7 @@ To make discussions in Slack more organized:
 
 [More details](02-experiment-tracking)
 
-[**Weights and biases workshop**](cohorts/2023/02-experiment-tracking/wandb.md) 
+[**Weights and biases workshop**](cohorts/2023/02-experiment-tracking/wandb.md)
 
 
 ### [Module 3: Orchestration and ML Pipelines](03-orchestration)
@@ -153,7 +170,7 @@ To make discussions in Slack more organized:
 ## Instructors
 
 - Cristian Martinez
-- Jeff Hale 
+- Jeff Hale
 - Alexey Grigorev
 - Emeli Dral
 - Sejal Vaidya
@@ -194,7 +211,7 @@ If you want to make sure you don't miss anything:
 
 No and yes. There will be two parts:
 
-* Lectures: Pre-recorded, you can watch them when it's convenient for you. 
+* Lectures: Pre-recorded, you can watch them when it's convenient for you.
 * Office hours: Live on Mondays (17:00 CET), but recorded, so you can watch later.
 
 
