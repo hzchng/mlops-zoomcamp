@@ -1,0 +1,57 @@
+{
+    "os": "Windows-10-10.0.23475-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-06-10T15:35:40.128959",
+    "startedAt": "2023-06-10T15:35:38.680070",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp",
+        "--wandb_entity",
+        "hzchng2",
+        "--data_artifact",
+        "hzchng2/mlops-zoomcamp/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\hzchng\\Desktop\\code\\mlops-zoomcamp\\cohorts\\2023\\02-experiment-tracking\\homework-wandb\\sweep.py",
+    "codePath": "cohorts\\2023\\02-experiment-tracking\\homework-wandb\\sweep.py",
+    "git": {
+        "remote": "https://github.com/hzchng/mlops-zoomcamp.git",
+        "commit": "2d4cb4028dde418a0f61233b5f4a1e03e06c75c3"
+    },
+    "email": "hzchng2@graduate.utm.my",
+    "root": "C:/Users/hzchng/Desktop/code/mlops-zoomcamp",
+    "host": "zhi-nitro-5",
+    "username": "hzchng",
+    "executable": "C:\\Users\\hzchng\\miniconda3\\envs\\ml\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3100.0,
+        "min": 0.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3100.0,
+            "min": 0.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "total": 475.66894149780273,
+        "used": 178.35878372192383
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 7.693840026855469
+    }
+}
