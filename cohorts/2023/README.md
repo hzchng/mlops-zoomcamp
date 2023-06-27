@@ -21,13 +21,13 @@
 
 * [Homework](03-orchestration/homework.md)
 
-**Module 4**
+[**Module 4: Model Deployment**](04-deployment)
 
-* TBA
+* [Homework](04-deployment/homework.md)
 
-**Module 5**
+[**Module 5: Model Monitoring**](05-monitoring/)
 
-* TBA
+* [Homework](05-monitoring/homework.md)
 
 **Module 6**
 
